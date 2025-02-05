@@ -1,0 +1,2 @@
+Hello This is Async Way of creating the file
+This is the appended by me from the code not inside the file
