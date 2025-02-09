@@ -1,0 +1,8 @@
+<%- include('./components/navbar.ejs') %>
+<h1>This is <%- title %></h1>
+<ul>Below is the list of Products
+
+<% products.forEach(product=>{ %>
+    <li><%- product.title %></li>
+<% }) %> 
+</ul>
